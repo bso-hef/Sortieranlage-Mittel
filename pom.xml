@@ -46,6 +46,13 @@
             <groupId>com.github.bdeneuter</groupId>
             <artifactId>lejos-ev3-api</artifactId>
         </dependency>
+<!--        <dependency>
+            <groupId>de.bso-hef.java.examples</groupId>
+            <artifactId>ElementSorterHelper</artifactId>
+            <version>1.0</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/ElementSorterHelper-1.0-SNAPSHOT.jar</systemPath>
+        </dependency>-->
     </dependencies>
 
 
